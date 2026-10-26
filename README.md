@@ -3,7 +3,3 @@
   <h1>Sileofy</h1>
   <p>Tweaks for Sileo</p>
 </div>
-
-
-# Sileofy
-Tweaks for sileo
