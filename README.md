@@ -25,10 +25,8 @@
 3. Add the repository URL:
 
    ```text
-   https://YOUR-USERNAME.github.io/Sileofy/
+   https://nekohook.github.io/Sileofy/
    ```
-
-   Replace `YOUR-USERNAME` with your GitHub username and make sure GitHub Pages or your package-hosting setup is configured.
 
 ## Features
 
